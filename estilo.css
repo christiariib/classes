@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+}
+.container{
+width: 100%;
+border: 1px solid black
+}
+#cabecalho{
+    
+    height: 300px;
+    background-color: rgb(27, 10, 27)
+
+
+}
+ul{
+    display: flex;
+    justify-content: center;
+}
+a{
+    padding: 30px;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+#areaimagem{
+    height: 200px;
+    background-color: rgb(213, 233, 31);
+
+}
+.fontevermelha{
+    color: red;
+}
+#fundoazul{
+    background-color: blue;
+}
+#areduascaixas{
+    height: 300px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#aretrescaixas{
+    height: 300px;
+    background-color: darkgoldenrod
+}
+.box{
+    
+    width: 20%;
+    height: 200px;
+    border: 1 solid black;
+}
+#rodape{
+    height: 300px;
+    background-color: brown;
+}
+
